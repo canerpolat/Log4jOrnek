@@ -1,0 +1,12 @@
+2018-09-13 17:06:57 INFO  Log4j:14 - info message
+2018-09-13 17:06:57 WARN  Log4j:15 - warn message
+2018-09-13 17:06:57 ERROR Log4j:16 - error message
+2018-09-13 17:06:57 FATAL Log4j:17 - fatal message
+2018-09-13 17:11:30 INFO  Log4j:14 - info message
+2018-09-13 17:11:30 WARN  Log4j:15 - warn message
+2018-09-13 17:11:30 ERROR Log4j:16 - error message
+2018-09-13 17:11:30 FATAL Log4j:17 - fatal message
+2018-09-13 17:31:41 INFO  Log4j:14 - info message
+2018-09-13 17:31:41 WARN  Log4j:15 - warn message
+2018-09-13 17:31:41 ERROR Log4j:16 - error message
+2018-09-13 17:31:41 FATAL Log4j:17 - fatal message
